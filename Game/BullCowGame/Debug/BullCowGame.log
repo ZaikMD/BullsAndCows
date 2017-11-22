@@ -1,0 +1,5 @@
+﻿  FBullCowGame.cpp
+e:\programming\unrealcourse\section_02\bullcowgame\fbullcowgame.cpp(9): warning C4273: 'isdigit': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\ctype.h(34): note: see previous definition of 'isdigit'
+  BullCowGame.vcxproj -> E:\Programming\UnrealCourse\Section_02\Debug\BullCowGame.exe
+  BullCowGame.vcxproj -> E:\Programming\UnrealCourse\Section_02\Debug\BullCowGame.pdb (Partial PDB)
